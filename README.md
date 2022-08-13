@@ -13,3 +13,4 @@ Repository berisi file project untuk kelompok 4 Alpha Corp <br>
 Our Project:<br>
 Banking Marketing Target<br>
 Meningkatkan revenue dan menurunkan cost dalam marketing penawaran deposito ke nasabah pada Bank Beta dengan membuat sebuah model machine learning
+Datasets : https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets
